@@ -1,6 +1,6 @@
 package se.lexicon.model;
 
-public interface VendingMashine {
+public interface VendingMachine {
     void addCurrency(int amount);
 
     int getBalance();
